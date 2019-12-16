@@ -1,0 +1,65 @@
+[
+  {
+    "shift_name": "Nedap 1",
+    "start_time": 28800,
+    "stop_time": 37800,
+    "customer": "Nedap",
+    "locations": ["Staffing Solutions", "Healthcare"]
+  },
+  {
+    "shift_name": "Nedap 2",
+    "start_time": 28800,
+    "stop_time": 41400,
+    "customer": "Nedap",
+    "locations": ["Staffing Solutions", "Healthcare", "Security Management"]
+  },
+  {
+    "shift_name": "Nedap 3",
+    "start_time": 37800,
+    "stop_time": 45000,
+    "customer": "Nedap",
+    "locations": ["Restaurant", "Healthcare"]
+  },
+  {
+    "shift_name": "Nedap 4",
+    "start_time": 36000,
+    "stop_time": 43200,
+    "customer": "Nedap",
+    "locations": ["Security Management", "Staffing Solutions", "Livestock"]
+  },
+  {
+    "shift_name": "Nedap 5",
+    "start_time": 46800,
+    "stop_time": 72000,
+    "customer": "Nedap",
+    "locations": ["ICT", "Livestock"]
+  },
+  {
+    "shift_name": "FEBO 1",
+    "start_time": 25200,
+    "stop_time": 45000,
+    "customer": "FEBO",
+    "locations": ["Afwas", "Ontbijtbuffet", "Kassa"]
+  },
+  {
+    "shift_name": "FEBO 2",
+    "start_time": 46800,
+    "stop_time": 66600,
+    "customer": "FEBO",
+    "locations": ["Frituren", "Kassa"]
+  },
+  {
+    "shift_name": "FEBO 3",
+    "start_time": 50400,
+    "stop_time": 72000,
+    "customer": "FEBO",
+    "locations": ["Afwas", "Frituren", "Schoonmaak"]
+  },
+  {
+    "shift_name": "FEBO 4",
+    "start_time": 72000,
+    "stop_time": 81000,
+    "customer": "FEBO",
+    "locations": ["Frituren", "Kassa"]
+  }
+]

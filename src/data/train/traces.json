@@ -1,0 +1,2572 @@
+[
+  {
+    "id": 0,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 25004
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 25236
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 31722
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 45177
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 28387
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 38245
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 46554
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 66977
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 39750
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 42880
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 45656
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 50312
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 51332
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 54441
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 46561
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 55121
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 64372
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 67114
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 28668
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 38897
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 67273
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 50069
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 54225
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 61041
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 72076
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 24779
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 45700
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Restaurant",
+        "time": 20656
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Restaurant",
+        "time": 63086
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 24980
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 30860
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 38331
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 45345
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 1168
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 59228
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 69029
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 24670
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 45161
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 29933
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 43764
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 45544
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 62645
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 65200
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 78909
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 46602
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 66924
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 37293
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 45008
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 71970
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 81184
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 35827
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 43417
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 46683
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 66950
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 16655
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 30556
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 32768
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 49869
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 51896
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 63795
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 6261
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 18329
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 19528
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 36629
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 38411
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 52759
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 20150
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 58768
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 82266
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 84607
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 84676
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "clockings": []
+  },
+  {
+    "id": 19,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 22849
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 35013
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 37965
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 55066
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 56280
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 68157
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 46271
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 66815
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 71696
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 81449
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 30922
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 5596
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 11320
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 13916
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 15222
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 8441
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 9474
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 12151
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 18984
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 21463
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 22269
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 28565
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 41783
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 50275
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 72521
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 37083
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 28348
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 37979
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 46254
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 72232
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 50074
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 54969
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 59893
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 72364
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 10534
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 24470
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 27169
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 44270
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 45341
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 59233
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 3116
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 24285
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 34565
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 1433
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 1663
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 4632
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 10539
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 13514
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 14887
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 27784
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 38241
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 71495
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 81236
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 5377
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 10282
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 27954
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 54083
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 79890
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 46001
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 72097
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 46746
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 66640
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 71521
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 81551
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 24707
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 45220
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 71461
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 81108
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 50005
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 56721
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 58529
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 72058
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 46231
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 47715
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 50479
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 72445
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 37458
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 45497
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 71790
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 81947
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 4264
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 15751
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 20056
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 28059
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 83263
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 46404
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 72661
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 6845
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 29528
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 31664
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 52476
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 6396
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 9224
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 10130
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 10264
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 12773
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 15629
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 21147
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 46078
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 69853
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 1663
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 30779
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 64195
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 46275
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 67162
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 71517
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 81446
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 21295
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 63794
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 25062
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 45105
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Restaurant",
+        "time": 58037
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 63869
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 31056
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 51322
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 75253
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 46649
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 67117
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 71610
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 81254
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 46169
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 72412
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 18268
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 18385
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 77459
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 85858
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 6920
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 25148
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 34714
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 68311
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 4213
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 17865
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 20439
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 37540
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 38908
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 52225
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 46747
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 72206
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 7682
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 31032
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 78303
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 28568
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 38842
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 46377
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 66883
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Restaurant",
+        "time": 37279
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Restaurant",
+        "time": 45104
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 71883
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 81280
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 28746
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 37890
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 50175
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 72213
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 7572
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 34509
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 74898
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 75788
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 84716
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "clockings": [
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 81614
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 49569
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 72512
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 13767
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 46862
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 47338
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 70236
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 80054
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 69439
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 75328
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 84410
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 28983
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 34142
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 28481
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 38236
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 46756
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 67120
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 35771
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 43500
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 71981
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 81440
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 41126
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 45614
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 48545
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 49929
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 1464
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 44253
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 45133
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 69369
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 81850
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 45050
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 58291
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 64147
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 64178
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 9714
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 55786
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 59507
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 3965
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 27640
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 30064
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 50805
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Schoonmaak",
+        "time": 4272
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 74408
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 26363
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 47795
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 48686
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 71065
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 45963
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 68743
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Healthcare",
+        "time": 82459
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 35964
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 43374
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 46607
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 67021
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "clockings": [
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 67776
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 46354
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 54859
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 65308
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 72595
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 48075
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 5956
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 15618
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 75161
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 79868
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 875
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 1629
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 2551
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 18761
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 52593
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 53209
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 55960
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 61765
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 24604
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 25081
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 56821
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 29471
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "ICT",
+        "time": 68806
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 72759
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 27628
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Ontbijtbuffet",
+        "time": 45635
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 56291
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 2655
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 20806
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 74703
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 19218
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 22892
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 45952
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "clockings": []
+  },
+  {
+    "id": 91,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 2117
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 21977
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 72464
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 74189
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Security Management"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 29304
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 75574
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 55937
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 63035
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 71282
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 15696
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Afwas",
+        "time": 19440
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 85154
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 46594
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Kassa",
+        "time": 67294
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 42776
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Security Management",
+        "time": 47586
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 48313
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 48967
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 28481
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Staffing Solutions",
+        "time": 38110
+      },
+      {
+        "status": "IN",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 46739
+      },
+      {
+        "status": "OUT",
+        "customer": "Nedap",
+        "location": "Livestock",
+        "time": 72191
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "clockings": [
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 40065
+      },
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 67464
+      },
+      {
+        "status": "IN",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 73216
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "clockings": [
+      {
+        "status": "OUT",
+        "customer": "FEBO",
+        "location": "Frituren",
+        "time": 71598
+      }
+    ]
+  }
+]
